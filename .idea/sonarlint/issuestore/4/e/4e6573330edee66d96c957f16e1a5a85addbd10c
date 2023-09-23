@@ -1,0 +1,62 @@
+
+J
+java:S3740
+"/Provide the parametrized type for this generic.(ãÁ‹ˆüÿÿÿÿ
+J
+java:S3740
+"/Provide the parametrized type for this generic.(ãÁ‹ˆüÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(Á­›ª
+E
+java:S3740"/Provide the parametrized type for this generic.(Á­›ª
+E
+java:S3740"/Provide the parametrized type for this generic.(ˆÿô›
+E
+java:S3740"/Provide the parametrized type for this generic.(ˆÿô›
+E
+java:S3740"/Provide the parametrized type for this generic.(Ý­ÿ‰
+E
+java:S3740"/Provide the parametrized type for this generic.(Ý­ÿ‰
+E
+java:S3740V"/Provide the parametrized type for this generic.(Á³öÆ
+E
+java:S3740V"/Provide the parametrized type for this generic.(Á³öÆ
+J
+java:S3740b"/Provide the parametrized type for this generic.(°ÞÄúÿÿÿÿÿ
+J
+java:S3740b"/Provide the parametrized type for this generic.(°ÞÄúÿÿÿÿÿ
+E
+java:S3740c"/Provide the parametrized type for this generic.(®ÆÇÛ
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(‹²‹Õüÿÿÿÿ
+K
+java:S3740„"/Provide the parametrized type for this generic.(ŒÜ³²úÿÿÿÿ
+F
+java:S3740…"/Provide the parametrized type for this generic.( ÞÍŸ
+q
+java:S1149
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ãÁ‹ˆüÿÿÿÿ
+`
+java:S6201"JReplace this instanceof check and cast with 'instanceof PropertyCell cell'(â·Æ¿
+7
+java:S2129#"!Remove this "Integer" constructor(ÁŒª°
+^
+java:S5738#"HRemove this call to a deprecated method, it has been marked for removal.(ÁŒª°
+<
+java:S2129)"!Remove this "Integer" constructor(Öëê®ùÿÿÿÿ
+c
+java:S5738)"HRemove this call to a deprecated method, it has been marked for removal.(Öëê®ùÿÿÿÿ
+<
+java:S2129/"!Remove this "Integer" constructor(¢¬‘¯üÿÿÿÿ
+c
+java:S5738/"HRemove this call to a deprecated method, it has been marked for removal.(¢¬‘¯üÿÿÿÿ
+7
+java:S2129O"!Remove this "Integer" constructor(ÁŒª°
+^
+java:S5738O"HRemove this call to a deprecated method, it has been marked for removal.(ÁŒª°
+a
+java:S6201¶"JReplace this instanceof check and cast with 'instanceof PropertyCell cell'(š‚ºê
+a
+java:S6201º"JReplace this instanceof check and cast with 'instanceof RailRoadCell cell'(ûà€Í
+`
+java:S6201¾"IReplace this instanceof check and cast with 'instanceof UtilityCell cell'(´²Á

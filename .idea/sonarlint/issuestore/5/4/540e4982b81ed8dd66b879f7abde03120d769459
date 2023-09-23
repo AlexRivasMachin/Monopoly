@@ -1,0 +1,13 @@
+
+r
+java:S1104"WMake TYPE_CHANCE a static final constant or non-public and provide accessors if needed.(š¢Ÿ’üÿÿÿÿ
+n
+java:S1104"SMake TYPE_CC a static final constant or non-public and provide accessors if needed.(¿±œ¦þÿÿÿÿ
+L
+java:S1444"1Make this "public static TYPE_CHANCE" field final(š¢Ÿ’üÿÿÿÿ
+H
+java:S1444"-Make this "public static TYPE_CC" field final(¿±œ¦þÿÿÿÿ
+q
+java:S3008"VRename this field "TYPE_CHANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢Ÿ’üÿÿÿÿ
+m
+java:S3008"RRename this field "TYPE_CC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿±œ¦þÿÿÿÿ
