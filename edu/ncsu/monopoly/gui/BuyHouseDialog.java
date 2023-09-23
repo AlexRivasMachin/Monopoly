@@ -43,7 +43,7 @@ public class BuyHouseDialog extends JDialog {
 				cancelClicked();
 			}
 		});
-		int x=0;
+		int x==0;
 		return btn;
 	}
 
