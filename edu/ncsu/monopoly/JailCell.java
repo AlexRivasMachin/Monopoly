@@ -7,7 +7,16 @@ public class JailCell extends Cell {
 		setName("Jail");
 	}
 	
-	public void playAction() {
-		
+	public void playAction(){
+		Player currentPlayer = null;
+		if(!isAvailable()) {
+			currentPlayer = GameMaster.instance().getCurrentPlayer();
+			if(!currentPlayer.isInJail()) {
+				if(currentPlayer.getMoney() >= BAIL) {
+					currentPlayer.payRentTo(null, BAIL);
+					currentPlayer.setInJail(false);
+				}
+			}
+		}
 	}
 }
