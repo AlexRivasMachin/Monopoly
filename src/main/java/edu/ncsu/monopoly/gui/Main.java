@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 import edu.ncsu.monopoly.*;
 
 public class Main {
-
+//hola
 	private static int inputNumberOfPlayers(MainWindow window) {
 		int numPlayers = 0;
 		while(numPlayers <= 0 || numPlayers > GameMaster.MAX_PLAYER) {
