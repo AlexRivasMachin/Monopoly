@@ -19,9 +19,7 @@ q
 java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ãÁ‹ˆüÿÿÿÿ
 <
 java:S2129""!Remove this "Integer" constructor(³Œû¼þÿÿÿÿ
-c
-java:S5738""HRemove this call to a deprecated method, it has been marked for removal.(³Œû¼þÿÿÿÿ
-^
-java:S6201B"HReplace this instanceof check and cast with 'instanceof PropertyCell pc'(š‚ºê
+Q
+java:S1874""/Remove this use of "Integer"; it is deprecated.(³Œû¼þÿÿÿÿ8É†¼ÿ­1
 I
 java:S1068".Remove this unused "gameMaster" private field.(ÙÁÐœüÿÿÿÿ

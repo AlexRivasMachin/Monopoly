@@ -1,41 +1,39 @@
 
+Q
+java:S3740"/Provide the parametrized type for this generic.(úÂÁœüÿÿÿÿ8´‚¼ÿ­1
+L
+java:S3740"/Provide the parametrized type for this generic.(’ì”¶8´‚¼ÿ­1
+Q
+java:S37401"/Provide the parametrized type for this generic.(×Úü‰þÿÿÿÿ8¸‚¼ÿ­1
+Q
+java:S37402"/Provide the parametrized type for this generic.(ÎÅ÷þýÿÿÿÿ8¸‚¼ÿ­1
+Q
+java:S37406"/Provide the parametrized type for this generic.(¯¦õÞüÿÿÿÿ8¸‚¼ÿ­1
+Q
+java:S37407"/Provide the parametrized type for this generic.(…èû÷üÿÿÿÿ8¸‚¼ÿ­1
 J
-java:S3740"/Provide the parametrized type for this generic.(úÂÁœüÿÿÿÿ
-E
-java:S3740"/Provide the parametrized type for this generic.(’ì”¶
+java:S1604)"(Make this anonymous inner class a lambda(¥ÁÍ€ûÿÿÿÿ8¸‚¼ÿ­1
 J
-java:S37400"/Provide the parametrized type for this generic.(×Úü‰þÿÿÿÿ
+java:S1604B"(Make this anonymous inner class a lambda(¥ÁÍ€ûÿÿÿÿ8¹‚¼ÿ­1
 J
-java:S37401"/Provide the parametrized type for this generic.(ÎÅ÷þýÿÿÿÿ
-J
-java:S37405"/Provide the parametrized type for this generic.(¯¦õÞüÿÿÿÿ
-J
-java:S37406"/Provide the parametrized type for this generic.(…èû÷üÿÿÿÿ
+java:S1948"(Make "player" transient or serializable.(Ç¹Ù±úÿÿÿÿ8Æ‚¼ÿ­1
+=
+java:S21298"!Remove this "Integer" constructor(Ô²¦,8Î‚¼ÿ­1
+K
+java:S18748"/Remove this use of "Integer"; it is deprecated.(Ô²¦,8Î‚¼ÿ­1
+>
+java:S21299"!Remove this "Integer" constructor(¿Ê¬É8Î‚¼ÿ­1
+L
+java:S18749"/Remove this use of "Integer"; it is deprecated.(¿Ê¬É8Î‚¼ÿ­1
 C
-java:S1604'"(Make this anonymous inner class a lambda(¥ÁÍ€ûÿÿÿÿ
+java:S2129:"!Remove this "Integer" constructor(Ö‰•Ïúÿÿÿÿ8Ï‚¼ÿ­1
+Q
+java:S1874:"/Remove this use of "Integer"; it is deprecated.(Ö‰•Ïúÿÿÿÿ8Ï‚¼ÿ­1
+>
+java:S2129;"!Remove this "Integer" constructor(±†êç8Ï‚¼ÿ­1
+L
+java:S1874;"/Remove this use of "Integer"; it is deprecated.(±†êç8Ï‚¼ÿ­1
 C
-java:S1604A"(Make this anonymous inner class a lambda(¥ÁÍ€ûÿÿÿÿ
-C
-java:S1948"(Make "player" transient or serializable.(Ç¹Ù±úÿÿÿÿ
-H
-java:S1481,"&Remove this unused "x" local variable.(ž¾„ëüÿÿÿÿ8±Ê¿—¬1
-6
-java:S21297"!Remove this "Integer" constructor(Ô²¦,
-]
-java:S57387"HRemove this call to a deprecated method, it has been marked for removal.(Ô²¦,
-7
-java:S21298"!Remove this "Integer" constructor(¿Ê¬É
-^
-java:S57388"HRemove this call to a deprecated method, it has been marked for removal.(¿Ê¬É
-<
-java:S21299"!Remove this "Integer" constructor(Ö‰•Ïúÿÿÿÿ
-c
-java:S57389"HRemove this call to a deprecated method, it has been marked for removal.(Ö‰•Ïúÿÿÿÿ
-7
-java:S2129:"!Remove this "Integer" constructor(±†êç
-^
-java:S5738:"HRemove this call to a deprecated method, it has been marked for removal.(±†êç
-<
-java:S2129;"!Remove this "Integer" constructor(ðÚƒ¿ùÿÿÿÿ
-c
-java:S5738;"HRemove this call to a deprecated method, it has been marked for removal.(ðÚƒ¿ùÿÿÿÿ
+java:S2129<"!Remove this "Integer" constructor(ðÚƒ¿ùÿÿÿÿ8Ï‚¼ÿ­1
+Q
+java:S1874<"/Remove this use of "Integer"; it is deprecated.(ðÚƒ¿ùÿÿÿÿ8Ï‚¼ÿ­1

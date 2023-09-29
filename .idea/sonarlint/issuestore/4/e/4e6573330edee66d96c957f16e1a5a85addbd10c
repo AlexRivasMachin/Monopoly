@@ -36,27 +36,19 @@ java:S3740…"/Provide the parametrized type for this generic.( ÞÍŸ
 q
 java:S1149
 "VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ãÁ‹ˆüÿÿÿÿ
-`
-java:S6201"JReplace this instanceof check and cast with 'instanceof PropertyCell cell'(â·Æ¿
 7
 java:S2129#"!Remove this "Integer" constructor(ÁŒª°
-^
-java:S5738#"HRemove this call to a deprecated method, it has been marked for removal.(ÁŒª°
+L
+java:S1874#"/Remove this use of "Integer"; it is deprecated.(ÁŒª°8Ø…¼ÿ­1
 <
 java:S2129)"!Remove this "Integer" constructor(Öëê®ùÿÿÿÿ
-c
-java:S5738)"HRemove this call to a deprecated method, it has been marked for removal.(Öëê®ùÿÿÿÿ
+Q
+java:S1874)"/Remove this use of "Integer"; it is deprecated.(Öëê®ùÿÿÿÿ8Ù…¼ÿ­1
 <
 java:S2129/"!Remove this "Integer" constructor(¢¬‘¯üÿÿÿÿ
-c
-java:S5738/"HRemove this call to a deprecated method, it has been marked for removal.(¢¬‘¯üÿÿÿÿ
+Q
+java:S1874/"/Remove this use of "Integer"; it is deprecated.(¢¬‘¯üÿÿÿÿ8Ú…¼ÿ­1
 7
 java:S2129O"!Remove this "Integer" constructor(ÁŒª°
-^
-java:S5738O"HRemove this call to a deprecated method, it has been marked for removal.(ÁŒª°
-a
-java:S6201¶"JReplace this instanceof check and cast with 'instanceof PropertyCell cell'(š‚ºê
-a
-java:S6201º"JReplace this instanceof check and cast with 'instanceof RailRoadCell cell'(ûà€Í
-`
-java:S6201¾"IReplace this instanceof check and cast with 'instanceof UtilityCell cell'(´²Á
+L
+java:S1874O"/Remove this use of "Integer"; it is deprecated.(ÁŒª°8Ý…¼ÿ­1
