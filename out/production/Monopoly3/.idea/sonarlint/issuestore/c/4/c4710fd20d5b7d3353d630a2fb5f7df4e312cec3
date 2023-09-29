@@ -1,0 +1,17 @@
+
+r
+java:S1104"WMake COLOR_GROUP a static final constant or non-public and provide accessors if needed.(»¬üˆøÿÿÿÿ
+L
+java:S1444"1Make this "public static COLOR_GROUP" field final(»¬üˆøÿÿÿÿ
+`
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(É§æûÿÿÿÿ
+q
+java:S3008"VRename this field "COLOR_GROUP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¬üˆøÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ØíÈ¬
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(»¬üˆøÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Œøúùÿÿÿÿ
+U
+java:S1161":Add the "@Override" annotation above this method signature(ê¾ƒ–úÿÿÿÿ

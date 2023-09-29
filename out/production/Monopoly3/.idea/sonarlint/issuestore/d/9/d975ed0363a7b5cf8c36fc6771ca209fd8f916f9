@@ -1,0 +1,9 @@
+
+Q
+java:S1066"/Merge this if statement with the enclosing one.(¹³­Èÿÿÿÿÿ8Í•Ÿ˜¬1
+k
+java:S1104"PMake BAIL a static final constant or non-public and provide accessors if needed.(ÃşÙÄúÿÿÿÿ
+E
+java:S1444"*Make this "public static BAIL" field final(ÃşÙÄúÿÿÿÿ
+j
+java:S3008"ORename this field "BAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃşÙÄúÿÿÿÿ
