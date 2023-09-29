@@ -1539,7 +1539,5 @@ w
 G.idea/sonarlint/issuestore/c/2/c2ae9becb5818ac4711c96a7bdebf2272210b1cd,c/3/c31d33890c793817d91e6b289ac9b397d0246c93
 Å
 Q.idea/sonarlint/securityhotspotstore/2/e/2ea00fc026cf56a974641320b9f4217b6df5ea88,0/2/02a17f033325c26fb5ad40d2ca4d0fd166ba14a3
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 K
 .github/workflows/build.yml,f/e/fe77d5d1439f26e353a42bbd38dece2467ff6558
