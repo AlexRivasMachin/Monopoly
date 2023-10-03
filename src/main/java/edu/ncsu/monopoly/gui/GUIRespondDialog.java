@@ -29,18 +29,14 @@ public class GUIRespondDialog extends JDialog implements RespondDialog {
         pnlButtons.add(btnNo);
         contentPane.add(pnlButtons, BorderLayout.SOUTH);
         
-        btnYes.addActionListener(new ActionListener(){
-            public void actionPerformed(ActionEvent e) {
-                response = true;
-                hide();
-            }
+        btnYes.addActionListener(e -> {
+            response = true;
+            hide();
         });
 
-        btnNo.addActionListener(new ActionListener(){
-            public void actionPerformed(ActionEvent e) {
-                response = false;
-                hide();
-            }
+        btnNo.addActionListener(e -> {
+            response = false;
+            hide();
         });
     
         setModal(true);
