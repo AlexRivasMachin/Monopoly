@@ -50,17 +50,11 @@ public class GUITradeDialog extends JDialog implements TradeDialog {
         contentPane.add(btnOK);
         contentPane.add(btnCancel);
         
-        btnCancel.addActionListener(new ActionListener(){
-            public void actionPerformed(ActionEvent e) {
-                GUITradeDialog.this.hide();
-            }
-        });
+        btnCancel.addActionListener(e -> GUITradeDialog.this.hide());
         
-        cboSellers.addItemListener(new ItemListener(){
-            public void itemStateChanged(ItemEvent e) {
-                Player player = (Player)e.getItem();
-                updatePropertiesCombo(player);
-            }
+        cboSellers.addItemListener(e -> {
+            Player player = (Player)e.getItem();
+            updatePropertiesCombo(player);
         });
         
         btnOK.addActionListener(new ActionListener() {
