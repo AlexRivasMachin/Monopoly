@@ -1,7 +1,8 @@
 package edu.ncsu.monopoly;
 
 
-public class GameBoard14 extends GameBoard {
+public class
+GameBoard14 extends GameBoard {
 
 	private static final String COLOR_BLUE = "blue";
 	private static final String COLOR_GREEN = "green";
