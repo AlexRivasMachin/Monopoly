@@ -57,28 +57,26 @@ public class GUITradeDialog extends JDialog implements TradeDialog {
             updatePropertiesCombo(player);
         });
         
-        btnOK.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
-                int amount = 0;
-                try{
-                    amount = Integer.parseInt(txtAmount.getText());
-                } catch(NumberFormatException nfe) {
-                    JOptionPane.showMessageDialog(GUITradeDialog.this,
-                            "Amount should be an integer", "Error", JOptionPane.ERROR_MESSAGE);
-                    return;
-                }
-                Cell cell = (Cell)cboProperties.getSelectedItem();
-                if(cell == null) return;
-                Player player = (Player)cboSellers.getSelectedItem();
-                Player currentPlayer = GameMaster.instance().getCurrentPlayer();
-                if(currentPlayer.getMoney() > amount) { 
-	                deal = new TradeDeal();
-	                deal.setAmount(amount);
-	                deal.setPropertyName(cell.getName());
-	                deal.setSellerIndex(GameMaster.instance().getPlayerIndex(player));
-                }
-                hide();
+        btnOK.addActionListener(e -> {
+            int amount = 0;
+            try{
+                amount = Integer.parseInt(txtAmount.getText());
+            } catch(NumberFormatException nfe) {
+                JOptionPane.showMessageDialog(GUITradeDialog.this,
+                        "Amount should be an integer", "Error", JOptionPane.ERROR_MESSAGE);
+                return;
             }
+            Cell cell = (Cell)cboProperties.getSelectedItem();
+            if(cell == null) return;
+            Player player = (Player)cboSellers.getSelectedItem();
+            Player currentPlayer = GameMaster.instance().getCurrentPlayer();
+            if(currentPlayer.getMoney() > amount) {
+                deal = new TradeDeal();
+                deal.setAmount(amount);
+                deal.setPropertyName(cell.getName());
+                deal.setSellerIndex(GameMaster.instance().getPlayerIndex(player));
+            }
+            hide();
         });
         
         this.pack();
