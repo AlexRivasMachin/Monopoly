@@ -48,16 +48,14 @@ public class BuyHouseDialog extends JDialog {
 		cboMonopoly = new JComboBox(player.getMonopolies());
 		return cboMonopoly;
 	}
-	
+
 	private JComboBox buildNumberComboBox() {
 		cboNumber = new JComboBox(new Integer[]{
-				new Integer(1),
-				new Integer(2),
-				new Integer(3),
-				new Integer(4),
-				new Integer(5)});
+				1,2,3,4,5});
 		return cboNumber;
 	}
+
+
 
 	private JButton buildOKButton() {
 		JButton btn = new JButton("OK");
