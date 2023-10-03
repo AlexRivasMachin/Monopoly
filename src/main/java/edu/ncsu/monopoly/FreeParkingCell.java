@@ -7,5 +7,6 @@ public class FreeParkingCell extends Cell {
 	}
 
 	public void playAction() {
+		//nothing happens when a player lands on free parking
 	}
 }
