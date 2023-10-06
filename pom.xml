@@ -66,7 +66,6 @@
 		<sonar.organization>alexrivasmachin</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>AlexRivasMachin_monopoly</sonar.projectKey>
-		<!-- <sonar.login>change your data</sonar.login> -->
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
